@@ -1,4 +1,4 @@
-"# Springboot-mqtt-demo" 
+# Springboot+Emqtt+mqttfx模拟
 项目核心采用Springboot+Emqtt进行信息的传输
 
 采用mqttfx1.7.1版本进行消费者模拟
