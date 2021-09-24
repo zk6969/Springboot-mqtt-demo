@@ -5,6 +5,6 @@ spring:
   mqtt:
     username: admin
     password: public
-    host-url: tcp://119.29.160.21:1883
+    host-url: tcp://127.0.0.1:1883
     client-id: emqttId
     default-topic: topic
