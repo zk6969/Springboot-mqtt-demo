@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "spring.mqtt",
+      "type": "com.zhengkai.emqtt.config.MqttProperties",
+      "sourceType": "com.zhengkai.emqtt.config.MqttProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.mqtt.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.zhengkai.emqtt.config.MqttProperties"
+    },
+    {
+      "name": "spring.mqtt.default-topic",
+      "type": "java.lang.String",
+      "sourceType": "com.zhengkai.emqtt.config.MqttProperties"
+    },
+    {
+      "name": "spring.mqtt.host-url",
+      "type": "java.lang.String",
+      "sourceType": "com.zhengkai.emqtt.config.MqttProperties"
+    },
+    {
+      "name": "spring.mqtt.password",
+      "type": "java.lang.String",
+      "sourceType": "com.zhengkai.emqtt.config.MqttProperties"
+    },
+    {
+      "name": "spring.mqtt.username",
+      "type": "java.lang.String",
+      "sourceType": "com.zhengkai.emqtt.config.MqttProperties"
+    }
+  ],
+  "hints": []
+}
